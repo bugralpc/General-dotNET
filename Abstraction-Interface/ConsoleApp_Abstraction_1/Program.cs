@@ -24,6 +24,12 @@
 
             Console.WriteLine("Area of square : {0}", square.GetArea());
 
+            Console.WriteLine("-----------");
+
+            var class1 = new DerivedClass1();
+            class1.AbstractMethod1();
+            Console.WriteLine(class1.X + " " + class1.Y);
+
         }
     }
 }
