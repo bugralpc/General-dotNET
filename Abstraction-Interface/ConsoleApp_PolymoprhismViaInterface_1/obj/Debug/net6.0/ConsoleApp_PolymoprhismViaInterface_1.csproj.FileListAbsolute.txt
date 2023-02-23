@@ -1,0 +1,15 @@
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.csproj.AssemblyReference.cache
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.AssemblyInfoInputs.cache
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.AssemblyInfo.cs
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.csproj.CoreCompileInputs.cache
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\bin\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.exe
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\bin\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.deps.json
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\bin\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.runtimeconfig.json
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\bin\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.dll
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\bin\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.pdb
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.dll
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\refint\ConsoleApp_PolymoprhismViaInterface_1.dll
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.pdb
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ConsoleApp_PolymoprhismViaInterface_1.genruntimeconfig.cache
+C:\Users\bugra.cevikgibi\Desktop\Bugralp Git\General-dotNET\Abstraction-Interface\ConsoleApp_PolymoprhismViaInterface_1\obj\Debug\net6.0\ref\ConsoleApp_PolymoprhismViaInterface_1.dll
