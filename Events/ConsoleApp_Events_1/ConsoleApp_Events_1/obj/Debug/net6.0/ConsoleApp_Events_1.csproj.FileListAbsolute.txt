@@ -1,0 +1,15 @@
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\bin\Debug\net6.0\ConsoleApp_Events_1.exe
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\bin\Debug\net6.0\ConsoleApp_Events_1.deps.json
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\bin\Debug\net6.0\ConsoleApp_Events_1.runtimeconfig.json
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\bin\Debug\net6.0\ConsoleApp_Events_1.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\bin\Debug\net6.0\ConsoleApp_Events_1.pdb
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.csproj.AssemblyReference.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.AssemblyInfoInputs.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.AssemblyInfo.cs
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.csproj.CoreCompileInputs.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\refint\ConsoleApp_Events_1.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.pdb
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ConsoleApp_Events_1.genruntimeconfig.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Events\ConsoleApp_Events_1\ConsoleApp_Events_1\obj\Debug\net6.0\ref\ConsoleApp_Events_1.dll
