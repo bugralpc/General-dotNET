@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_EventHandler_2", "ConsoleApp_EventHandler_2\ConsoleApp_EventHandler_2.csproj", "{C054179C-7461-429C-862B-ACD05EE828A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C054179C-7461-429C-862B-ACD05EE828A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C054179C-7461-429C-862B-ACD05EE828A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C054179C-7461-429C-862B-ACD05EE828A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C054179C-7461-429C-862B-ACD05EE828A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65D6BEC-8B42-4291-B861-427D1E074937}
+	EndGlobalSection
+EndGlobal
