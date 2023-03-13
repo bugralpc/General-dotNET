@@ -1,0 +1,15 @@
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\bin\Debug\net6.0\ConsoleApp_TaskExceptionHandling.exe
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\bin\Debug\net6.0\ConsoleApp_TaskExceptionHandling.deps.json
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\bin\Debug\net6.0\ConsoleApp_TaskExceptionHandling.runtimeconfig.json
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\bin\Debug\net6.0\ConsoleApp_TaskExceptionHandling.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\bin\Debug\net6.0\ConsoleApp_TaskExceptionHandling.pdb
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.AssemblyInfo.cs
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\refint\ConsoleApp_TaskExceptionHandling.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.pdb
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ConsoleApp_TaskExceptionHandling.genruntimeconfig.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_TaskExceptionHandling\ConsoleApp_TaskExceptionHandling\obj\Debug\net6.0\ref\ConsoleApp_TaskExceptionHandling.dll
