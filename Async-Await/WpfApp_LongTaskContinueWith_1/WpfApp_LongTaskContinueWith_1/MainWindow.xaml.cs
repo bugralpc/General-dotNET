@@ -24,7 +24,6 @@ namespace WpfApp_LongTaskContinueWith_1
     {
         static ProgressBarItemViewModel progressBarIVM = new ProgressBarItemViewModel() { Progress = 0 };
 
-
         public MainWindow()
         {
             InitializeComponent();

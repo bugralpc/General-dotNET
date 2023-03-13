@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <StackPanel>
+            <ProgressBar Name="progressBar1" Minimum="0" Maximum="100" Height="20"></ProgressBar>
+            <TextBox Name="textBox1" TextWrapping="Wrap"></TextBox>
+            <Button Content="Click" Click="ButtonClick"></Button>
+        </StackPanel>
     </Grid>
 </Window>

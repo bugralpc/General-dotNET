@@ -1,0 +1,15 @@
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\bin\Debug\net6.0\ConsoleApp_CreatingStartingTask.exe
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\bin\Debug\net6.0\ConsoleApp_CreatingStartingTask.deps.json
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\bin\Debug\net6.0\ConsoleApp_CreatingStartingTask.runtimeconfig.json
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\bin\Debug\net6.0\ConsoleApp_CreatingStartingTask.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\bin\Debug\net6.0\ConsoleApp_CreatingStartingTask.pdb
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.csproj.AssemblyReference.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.AssemblyInfoInputs.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.AssemblyInfo.cs
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.csproj.CoreCompileInputs.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\refint\ConsoleApp_CreatingStartingTask.dll
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.pdb
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ConsoleApp_CreatingStartingTask.genruntimeconfig.cache
+C:\Users\Bugralp\Desktop\Bugralp Git\General-dotNET\Thread\ConsoleApp_CreatingStartingTask\ConsoleApp_CreatingStartingTask\obj\Debug\net6.0\ref\ConsoleApp_CreatingStartingTask.dll
