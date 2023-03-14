@@ -13,8 +13,8 @@
             Console.WriteLine(baseClassObj2.WorkProperty); // Calls the overrided property
 
             BaseClass baseClassObj1 = new BaseClass();
-            baseClassObj1.DoWork();
-            Console.WriteLine(baseClassObj1.WorkProperty);
+            baseClassObj1.DoWork(); // Calls the virtual method
+            Console.WriteLine(baseClassObj1.WorkProperty); // Calls the virtual property
         }
     }
 }
