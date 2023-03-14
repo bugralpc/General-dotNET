@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_ParallelLoops_InvokeForForeach", "ConsoleApp_ParallelLoops_InvokeForForeach.csproj", "{D7C0D1C5-B0A8-4134-95EA-B9699B40E458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C0D1C5-B0A8-4134-95EA-B9699B40E458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C0D1C5-B0A8-4134-95EA-B9699B40E458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C0D1C5-B0A8-4134-95EA-B9699B40E458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C0D1C5-B0A8-4134-95EA-B9699B40E458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9BC49B-3EEB-44AD-A80D-7ABAB97ADF32}
+	EndGlobalSection
+EndGlobal
